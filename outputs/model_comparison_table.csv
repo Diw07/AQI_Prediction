@@ -1,0 +1,6 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%),CV Mean Acc (%),CV Std (%)
+Logistic Regression,98.43,98.46,98.43,98.44,98.21,0.06
+Decision Tree,100.0,100.0,100.0,100.0,100.0,0.0
+Random Forest,99.73,99.73,99.73,99.73,99.81,0.09
+XGBoost,99.79,99.79,99.79,99.79,99.62,0.08
+Stacking Ensemble,100.0,100.0,100.0,100.0,100.0,0.0
